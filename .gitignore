@@ -82,7 +82,7 @@ target/
 /data/
 
 #exclude reports from source control by default
-/reports/
+
 
 
 # Mac OS-specific storage files
