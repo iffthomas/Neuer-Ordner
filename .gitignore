@@ -81,6 +81,10 @@ target/
 # exclude data from source control by default
 /data/
 
+#exclude reports from source control by default
+/reports/
+
+
 # Mac OS-specific storage files
 .DS_Store
 
@@ -90,3 +94,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
+/reports/*
